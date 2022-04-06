@@ -2,7 +2,8 @@
   "name": "testcases",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "array.js",
+  "type": "commonjs",
   "scripts": {
     "test": "jest"
   },
